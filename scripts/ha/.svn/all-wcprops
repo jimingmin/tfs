@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha
+END
+ha.cf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/ha.cf
+END
+ns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/ns.xml
+END
+nsdep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/nsdep.sh
+END
+rs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/rs.xml
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/deploy.sh
+END
+authkeys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/authkeys.sh
+END
+rsdep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/rsdep.sh
+END
+NameServer
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/NameServer
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/Makefile.am
+END
+RootServer
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/scripts/ha/RootServer
+END

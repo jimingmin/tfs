@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor
+END
+ha_monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/ha_monitor.cpp
+END
+cibrsc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/cibrsc.xml
+END
+NameServer
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/NameServer
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/test.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/README
+END
+ns_ping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/monitor/ns_ping.cpp
+END

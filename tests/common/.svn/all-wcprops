@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common
+END
+new_replicate_block_msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/new_replicate_block_msg.cpp
+END
+new_replicate_block_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/new_replicate_block_msg.h
+END
+test_packet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_packet.cpp
+END
+test_base_service_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_base_service_client.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/Makefile.am
+END
+test_packet_streamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_packet_streamer.cpp
+END
+test_base_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_base_service.cpp
+END
+test_serialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_serialization.cpp
+END
+test_base_service_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_base_service_helper.h
+END
+test_tfs_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/common/test_tfs_vector.cpp
+END

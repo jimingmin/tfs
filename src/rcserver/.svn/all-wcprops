@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver
+END
+i_resource_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/i_resource_manager.h
+END
+ip_replace_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/ip_replace_helper.cpp
+END
+database_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/database_helper.cpp
+END
+ip_replace_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/ip_replace_helper.h
+END
+mocked_resource_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/mocked_resource_manager.h
+END
+database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/database_helper.h
+END
+resource_server_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/resource_server_data.h
+END
+session_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/session_manager.cpp
+END
+base_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/base_resource.cpp
+END
+resource_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/resource_manager.cpp
+END
+session_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/session_manager.h
+END
+rc_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/rc_service.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/main.cpp
+END
+base_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/base_resource.h
+END
+resource_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/resource_manager.h
+END
+app_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/app_resource.cpp
+END
+mysql_database_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/mysql_database_helper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/Makefile.am
+END
+rc_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/rc_service.h
+END
+app_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/app_resource.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/resource.h
+END
+mysql_database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/rcserver/mysql_database_helper.h
+END

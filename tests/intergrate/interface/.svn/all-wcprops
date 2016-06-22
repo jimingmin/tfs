@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface
+END
+test_05_save_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_05_save_file.cpp
+END
+test_01_initialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_01_initialize.cpp
+END
+test_03_open.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_03_open.cpp
+END
+tfs_client_impl_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/tfs_client_impl_init.h
+END
+test_18_save_update_char.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_18_save_update_char.cpp
+END
+test_16_unlink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_16_unlink.cpp
+END
+test_07_fetch_file_local_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_07_fetch_file_local_file.cpp
+END
+test_19_save_file_update.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_19_save_file_update.cpp
+END
+test_15_close.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_15_close.cpp
+END
+test_17_lseek.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_17_lseek.cpp
+END
+test_set_option_flag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_set_option_flag.cpp
+END
+test_13_pwrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_13_pwrite.cpp
+END
+test_08_stat_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_08_stat_file.cpp
+END
+test_10_readv2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_10_readv2.cpp
+END
+test_09_read.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_09_read.cpp
+END
+For_init_res.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/For_init_res.cpp
+END
+tfs_client_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/tfs_client_init.h
+END
+test_14_fstat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_14_fstat.cpp
+END
+test_02_set_default_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_02_set_default_server.cpp
+END
+test_06_fetch_file_char.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_06_fetch_file_char.cpp
+END
+tfs_init_for_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/tfs_init_for_test.h
+END
+test_12_write.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_12_write.cpp
+END
+test_11_pread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_11_pread.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/Makefile
+END
+test_04_save_char.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/intergrate/interface/test_04_save_char.cpp
+END

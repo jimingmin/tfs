@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/phpclient
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/phpclient/test.php
+END
+test_meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/phpclient/test_meta.php
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/phpclient/run.sh
+END

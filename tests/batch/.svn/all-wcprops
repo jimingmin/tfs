@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/Makefile.am
+END
+test_batch_write.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/test_batch_write.cpp
+END
+test_batch_read.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/test_batch_read.cpp
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/thread.h
+END
+test_batch_mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/test_batch_mix.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/batch/util.cpp
+END

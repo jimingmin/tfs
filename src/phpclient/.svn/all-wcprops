@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient
+END
+run-test-info.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/run-test-info.php
+END
+php_tfs_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/php_tfs_client.cpp
+END
+config.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/config.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/INSTALL
+END
+php_tfs_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/php_tfs_client.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/build.sh
+END
+php_tfs_client.spec
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/php_tfs_client.spec
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/README
+END
+Makefile.opt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/phpclient/Makefile.opt
+END

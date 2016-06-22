@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/rpm
+END
+tfs-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/rpm/tfs-build.sh
+END
+tfs-VER.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/rpm/tfs-VER.txt
+END
+tfs.spec
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/rpm/tfs.spec
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer
+END
+transfer_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/transfer_block.cpp
+END
+transfer_logo_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/transfer_logo_tool.cpp
+END
+split_block_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/split_block_tool.cpp
+END
+transfer_same_cluster_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/transfer_same_cluster_block.cpp
+END
+remove_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/remove_block.cpp
+END
+verify_file_same_cluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/verify_file_same_cluster.cpp
+END
+transfer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/transfer.sh
+END
+compare_same_cluster_ext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/compare_same_cluster_ext.cpp
+END
+block_console.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/block_console.cpp
+END
+compare_crc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/compare_crc.cpp
+END
+transfer_ge_dirs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/transfer_ge_dirs.cpp
+END
+block_console.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/block_console.h
+END
+compare_crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/compare_crc.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/Makefile.am
+END
+compare_same_cluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/transfer/compare_same_cluster.cpp
+END

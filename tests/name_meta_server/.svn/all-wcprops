@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server
+END
+test_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/test_service.cpp
+END
+test_meta_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/test_meta_info.cpp
+END
+test_cache_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/test_cache_helper.cpp
+END
+test_lru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/test_lru.cpp
+END
+meta_bucket_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/meta_bucket_test.cpp
+END
+test_service.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/test_service.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/Makefile.am
+END
+meta_bucket_manager_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/meta_bucket_manager_test.cpp
+END
+test_cache_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/name_meta_server/test_cache_info.cpp
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver
+END
+clear_remote_block_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/clear_remote_block_cache.cpp
+END
+performance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/performance.cpp
+END
+showssm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/showssm.cpp
+END
+sync_by_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/sync_by_file.cpp
+END
+cmp_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/cmp_factory.cpp
+END
+repair_block_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/repair_block_info.cpp
+END
+show_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/show_factory.cpp
+END
+stat_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/stat_tool.cpp
+END
+cmp_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/cmp_factory.h
+END
+rmsyncoplog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/rmsyncoplog.cpp
+END
+show_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/show_factory.h
+END
+stat_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/stat_tool.h
+END
+showsyncoplog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/showsyncoplog.cpp
+END
+stat_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/stat_main.cpp
+END
+show.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/show.cpp
+END
+read_syncoplog_header.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/read_syncoplog_header.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/main.cpp
+END
+show.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/show.h
+END
+metacmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/metacmp.cpp
+END
+admintool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/admintool.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/common.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/Makefile.am
+END
+tfstool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/tfstool.cpp
+END
+metacmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/metacmp.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/nameserver/common.h
+END

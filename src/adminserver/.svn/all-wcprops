@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/adminserver
+END
+adminserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/adminserver/adminserver.cpp
+END
+adminserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/adminserver/adminserver.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/adminserver/Makefile.am
+END

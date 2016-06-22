@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/resources
+END
+deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/resources/deployer.xml
+END
+tfsServer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/resources/tfsServer.xml
+END
+tfsClient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/resources/tfsClient.xml
+END

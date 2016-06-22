@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/checkserver
+END
+checkserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/checkserver/checkserver.cpp
+END
+server_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/checkserver/server_helper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/checkserver/Makefile.am
+END
+checkserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/checkserver/checkserver.h
+END
+server_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/checkserver/server_helper.h
+END

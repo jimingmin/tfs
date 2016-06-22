@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms
+END
+create_dir.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/create_dir.sql
+END
+mv_file.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/mv_file.sql
+END
+create_file.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/create_file.sql
+END
+seq_simulator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/seq_simulator.sql
+END
+pwrite_file.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/pwrite_file.sql
+END
+create_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/create_table.sql
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/Makefile.am
+END
+rm_dir.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/rm_dir.sql
+END
+rm_file.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/rm_file.sql
+END
+mv_dir.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/sql/ms/mv_dir.sql
+END

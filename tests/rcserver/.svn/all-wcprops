@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver
+END
+test_base_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/test_base_resource.cpp
+END
+test_resource_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/test_resource_manager.cpp
+END
+test_ip_replace_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/test_ip_replace_helper.cpp
+END
+test_app_resource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/test_app_resource.cpp
+END
+test_database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/test_database_helper.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/Makefile.am
+END
+test_session_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/rcserver/test_session_manager.cpp
+END

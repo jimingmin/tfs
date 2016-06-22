@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/java/com/taobao/tfstest
+END
+Function_ns_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/java/com/taobao/tfstest/Function_ns_test.java
+END
+Function_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/java/com/taobao/tfstest/Function_test.java
+END
+Function_ns_added_since_133_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/java/com/taobao/tfstest/Function_ns_added_since_133_test.java
+END
+FailOverBaseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/java/com/taobao/tfstest/FailOverBaseCase.java
+END
+Failover_ha_test.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/src/test/java/com/taobao/tfstest/Failover_ha_test.java
+END

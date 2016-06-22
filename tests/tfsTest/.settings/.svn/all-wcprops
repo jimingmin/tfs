@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/.settings/org.eclipse.jdt.core.prefs
+END
+org.maven.ide.eclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsTest/.settings/org.maven.ide.eclipse.prefs
+END

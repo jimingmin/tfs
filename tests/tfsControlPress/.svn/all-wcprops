@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress
+END
+test_tfs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs.conf
+END
+test_tfs_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_seed.h
+END
+test_case_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_case_factory.cpp
+END
+test_tfs_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_update.h
+END
+test_case_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_case_factory.h
+END
+test_common_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_common_utils.cpp
+END
+test_tfs_unlink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_unlink.cpp
+END
+test_common_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_common_utils.h
+END
+test_gfactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_gfactory.cpp
+END
+test_tfs_unlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_unlink.h
+END
+test_gfactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_gfactory.h
+END
+test_tfs_statis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_statis.cpp
+END
+test_tfs_api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_api.cpp
+END
+test_tfs_read.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_read.cpp
+END
+test_tfs_case.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_case.cpp
+END
+test_tfs_statis.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_statis.h
+END
+test_tfs_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_api.h
+END
+test_tfs_seed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_seed.cpp
+END
+test_tfs_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_read.h
+END
+test_tfs_case.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_case.h
+END
+test_tfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/Makefile
+END
+test_tfs_update.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/tfsControlPress/test_tfs_update.cpp
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server
+END
+meta_store_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_store_manager.h
+END
+meta_server_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_server_service.h
+END
+database_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/database_pool.h
+END
+database_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/database_helper.cpp
+END
+meta_heart_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_heart_manager.cpp
+END
+lru.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/lru.h
+END
+meta_cache_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_cache_helper.cpp
+END
+database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/database_helper.h
+END
+meta_heart_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_heart_manager.h
+END
+meta_cache_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_cache_helper.h
+END
+meta_bucket_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_bucket_manager.cpp
+END
+mem_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/mem_helper.cpp
+END
+meta_bucket_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_bucket_manager.h
+END
+mem_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/mem_helper.h
+END
+meta_cache_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_cache_info.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/main.cpp
+END
+mysql_database_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/mysql_database_helper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/Makefile.am
+END
+meta_cache_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_cache_info.h
+END
+meta_store_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_store_manager.cpp
+END
+meta_server_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/meta_server_service.cpp
+END
+database_pool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/database_pool.cpp
+END
+mysql_database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/name_meta_server/mysql_database_helper.h
+END

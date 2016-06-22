@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver
+END
+test_block_collect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_block_collect.cpp
+END
+test_server_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_server_manager.cpp
+END
+tfs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/tfs.conf
+END
+test_strategy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_strategy.cpp
+END
+test_task.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_task.cpp
+END
+test_layout_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_layout_manager.cpp
+END
+integration_instance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/integration_instance.cpp
+END
+test_server_collect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_server_collect.cpp
+END
+integration_instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/integration_instance.h
+END
+integration_case.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/integration_case.cpp
+END
+test_block_chunk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_block_chunk.cpp
+END
+integration_case.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/integration_case.h
+END
+integration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/integration.cpp
+END
+test_interval_integration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_interval_integration.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/Makefile.am
+END
+test_gc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_gc.cpp
+END
+test_lease.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_lease.cpp
+END
+test_task_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/tests/nameserver/test_task_manager.cpp
+END

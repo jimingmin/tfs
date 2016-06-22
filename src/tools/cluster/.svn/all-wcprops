@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster
+END
+sync_by_blk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_by_blk.cpp
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync.sh
+END
+sync_file_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_file_base.cpp
+END
+sync_by_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_by_file.cpp
+END
+sync_by_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_by_log.cpp
+END
+sync_file_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_file_base.h
+END
+ReadMe
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/ReadMe
+END
+transfer_by_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/transfer_by_file.cpp
+END
+sync_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_log.cpp
+END
+check_disk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/check_disk.sh
+END
+get_diff_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/get_diff_block.cpp
+END
+start_sync_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/start_sync_log.sh
+END
+blocktool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/blocktool.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/Makefile.am
+END
+sync_analyze_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/tfs/!svn/ver/1963/branches/dev_for_outer_users/src/tools/cluster/sync_analyze_tool.cpp
+END
